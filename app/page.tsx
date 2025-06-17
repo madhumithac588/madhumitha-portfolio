@@ -468,27 +468,6 @@ export default function ProfessionalPortfolio() {
         </p>
       </div>
 
-      {/* Project 3 - Ragul Constructions */}
-      <div className="group p-8 rounded-3xl bg-gradient-to-br from-gray-900/50 to-gray-800/30 border border-gray-700/50 backdrop-blur-sm hover:scale-105 transition-all duration-500">
-        <h3 className="text-2xl font-bold text-white mb-2 group-hover:text-green-400 transition-colors duration-300">
-          Ragul Constructions
-        </h3>
-        <a
-          href="https://ragulconstructions.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-green-400 text-sm flex items-center mb-4"
-        >
-          Visit Website <ExternalLink className="ml-1 w-4 h-4" />
-        </a>
-        <p className="text-gray-300 leading-relaxed mb-4">
-          Implemented SEO fundamentals and performance improvements for a construction business targeting local visibility.
-        </p>
-        <p className="text-sm text-gray-400 italic">
-          Learned schema implementation for local businesses, improved mobile responsiveness, and optimized location-specific keywords.
-        </p>
-      </div>
-
       {/* Project 4 - New Phoenix Boating */}
       <div className="group p-8 rounded-3xl bg-gradient-to-br from-gray-900/50 to-gray-800/30 border border-gray-700/50 backdrop-blur-sm hover:scale-105 transition-all duration-500">
         <h3 className="text-2xl font-bold text-white mb-2 group-hover:text-teal-400 transition-colors duration-300">
