@@ -66,28 +66,28 @@ export default function ProfessionalPortfolio() {
       icon: <Search className="w-8 h-8" />,
       title: "SEO Strategy & Optimization",
       description:
-        "Advanced SEO methodologies that drive organic growth and sustainable visibility in competitive markets.",
+        "Hands-on experience with keyword research, on-page optimization, and technical audits. I focus on strategies that improve visibility and make content easier to find.",
       gradient: "from-blue-500 to-purple-600",
     },
     {
       icon: <Zap className="w-8 h-8" />,
       title: "Performance Engineering",
       description:
-        "Architecting lightning-fast digital experiences with Core Web Vitals optimization and advanced caching strategies.",
+       "I’ve worked on improving website speed, image optimization, and Core Web Vitals using lightweight design principles and clean layouts.",
       gradient: "from-purple-500 to-pink-600",
     },
     {
       icon: <Users className="w-8 h-8" />,
       title: "UX Strategy & Research",
       description:
-        "Data-driven user experience design that converts visitors into loyal customers through behavioral analysis.",
+ "I believe in intuitive design. My projects prioritize clean navigation, mobile-first layouts, and understanding how users actually behave online.,
       gradient: "from-pink-500 to-red-600",
     },
     {
       icon: <BarChart3 className="w-8 h-8" />,
       title: "Content Strategy & Analytics",
       description:
-        "Strategic content frameworks backed by comprehensive analytics and conversion optimization.",
+        "From crafting SEO-friendly content to analyzing performance via GA4 and Search Console, I approach content with a blend of creativity and data.",
       gradient: "from-red-500 to-orange-600",
     },
   ];
@@ -105,10 +105,10 @@ export default function ProfessionalPortfolio() {
   const technologies = [
     { name: "Google Analytics (GA4)", category: "Analytics", level: 92 },
     { name: "Google Search Console", category: "Analytics", level: 90 },
-    { name: "Yoast SEO", category: "SEO Tools", level: 88 },
-    { name: "Google Ads", category: "Advertising", level: 85 },
-    { name: "Meta Ads Manager", category: "Advertising", level: 88 },
-    { name: "WordPress", category: "Web & CMS", level: 90 },
+    { name: "Google Tag Manager", category: "Tracking & Events", level: 88 },
+    { name: "Semrush", category: "SEO Tools", level: 75},
+    { name: "Meta Ads Manager", category: "Advertising", level: 60 },
+    { name: "Ubersuggest", category: "SEO Tools", level: 70},
     { name: "Canva", category: "Design & Creatives", level: 95 },
     { name: "Notion", category: "Content & Strategy", level: 90 },
   ];
