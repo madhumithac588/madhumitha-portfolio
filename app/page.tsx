@@ -115,7 +115,7 @@ export default function ProfessionalPortfolio() {
 
   const achievements = [
     {
-      number: "150+",
+      number: "5+",
       label: "Projects Delivered",
       icon: <Star className="w-6 h-6" />,
     },
