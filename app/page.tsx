@@ -80,7 +80,7 @@ export default function ProfessionalPortfolio() {
       icon: <Users className="w-8 h-8" />,
       title: "UX Strategy & Research",
       description:
- "I believe in intuitive design. My projects prioritize clean navigation, mobile-first layouts, and understanding how users actually behave online.,
+ "I believe in intuitive design. My projects prioritize clean navigation, mobile-first layouts, and understanding how users actually behave online.",
       gradient: "from-pink-500 to-red-600",
     },
     {
