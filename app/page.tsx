@@ -125,13 +125,13 @@ export default function ProfessionalPortfolio() {
       icon: <Users className="w-6 h-6" />,
     },
     {
-      number: "5+",
+      number: "1+",
       label: "Years Experience",
       icon: <Zap className="w-6 h-6" />,
     },
     {
-      number: "50M+",
-      label: "Organic Impressions",
+      number: "50+",
+      label: "Ranked Keywords On Google",
       icon: <BarChart3 className="w-6 h-6" />,
     },
   ];
@@ -284,29 +284,28 @@ export default function ProfessionalPortfolio() {
 
               <div className="space-y-6 text-lg text-gray-300 leading-relaxed">
                 <p>
-                  My journey began in the world of code, but I discovered my
-                  true passion lies at the intersection of
+                 My story began in code—but it’s the human side of digital that truly excites me. I’m drawn to the space where technology meets emotion, 
                   <span className="text-blue-400 font-semibold">
                     {" "}
-                    technology and human connection
+                    where strategy meets storytelling.
                   </span>
                   . Every project is an opportunity to create something that
                   resonates.
                 </p>
 
                 <p>
-                  I don't just build websites—I architect digital ecosystems
-                  that tell stories, drive engagement, and deliver measurable
-                  results. My developer background gives me a unique edge in
-                  understanding both the{" "}
+                  I don’t just create websites or campaigns—I build experiences that resonate. Whether it's SEO, content, or conversion paths, I approach each project as a chance to make digital feel personal, intuitive, and impactful.
+
+With a background in development and a mindset shaped by user behavior,{"  "}
                   <span className="text-purple-400 font-semibold">
-                    technical possibilities and user psychology
+                    I bridge the gap between what performs and what connects
                   </span>
                   .
                 </p>
 
                 <p className="text-xl font-semibold text-white">
-                  "How can we make this not just functional, but unforgettable?"
+                “How can this feel less like marketing, and more like meaning?”
+That’s the question I ask every time.
                 </p>
               </div>
             </div>
